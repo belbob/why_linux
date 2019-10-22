@@ -1,6 +1,12 @@
-# Geschiedenis
+# Open Source & Linux
+### door
+## Stephan Vercammen
 
-## Unix
+---
+
+## Geschiedenis
+
+### Unix
 
 - 1969 Ken Thompson
 - 1973 Dennis Ritchie
@@ -12,9 +18,9 @@ Note:
 1984 Bell verkoopt Unix als niet vrij product## Geschiedenis
 
 +++
-# Geschiedenis
+## Geschiedenis
 
-# GNU-Project
+### GNU-Project
 
 - 1984 Richard M.Stallman
 - vrij op Unix gelijkend
@@ -28,9 +34,9 @@ Free Software Foundation
 
 
 +++
-# Geschiedenis
+## Geschiedenis
 
-## Linux
+### Linux
 
 - 1991 Linus Torvalds
 - 1994 Linux Kernel v1.0
@@ -43,7 +49,7 @@ Linux = enkel de kernel
 +1.000.000 server van Google draaien op Linux
 
 ---
-# Basisonderdelen
+## Basisonderdelen
 
 - bibliotheken
 - compilers
@@ -59,7 +65,7 @@ Note:
 kernel is maar een deel van het besturingssysteem
 
 ---
-# Distributies
+## Distributies
 
 - Debian
   - Ubuntu
@@ -80,8 +86,8 @@ Note:
 Er zijn veel Linux distros, maar ze zijn alle afgeleid van de 4 hoofdstromingen
 
 ---
-# Software
-## Desktop
+## Software
+### Desktop
 - LibreOffice
 - Scribus
 - Firefox
@@ -93,36 +99,36 @@ Note:
 er zeer veel software beschikbaar, teveel om op te noemen
 
 +++
-# Software
-## Serversoftware
+## Software
+### Serversoftware
 
   - databases
   - odoo
 
 +++
-# Software
-## DevOps Tools
+## Software
+### DevOps Tools
 
   - Git
   - Docker
 
 +++
-# Software
-## Programmeertalen
+## Software
+### Programmeertalen
 
   - Python
   - Java
 
 +++
-# Software
-## Netwerk Tools
+## Software
+### Netwerk Tools
 
   - OpenVPN
   - OpenWRT
 
 +++
-# Software
-## Beveiliging
+## Software
+### Beveiliging
 
   - SELinux
   - Let's Encrypt
