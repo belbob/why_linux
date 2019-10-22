@@ -14,7 +14,7 @@ Note:
 1973 herschreven door Dennis Ritchie in C
 1984 Beel verkoopt Unix alss niet vrij product## Geschiedenis
 
----
++++
 ## Geschiedenis
 
 - Unix
@@ -26,7 +26,7 @@ GNU-project, een vrij op Unix gelijkend besturingssysteem
 Free Software Foundation
 
 
----
++++
 ## Geschiedenis
 
 - Unix
