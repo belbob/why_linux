@@ -1,3 +1,7 @@
+#
+# Theme Template
+# Doc: https://gitpitch.com/docs/themes/default
+#
 theme : template
 
 theme-background : [ "black" ]
@@ -10,3 +14,10 @@ theme-controls   : [ "#C0C0C0" ]
 theme-margins    : [ "0", "15px" ]
 
 highlight        : ir-black
+
+#
+# Logo Setting
+# https://gitpitch.com/docs/settings/logo
+#
+logo : afb/why_linux_logo.jpg
+logo-position : top-left
