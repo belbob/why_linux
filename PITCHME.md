@@ -1,24 +1,25 @@
-# Linux
+# Geschiedenis
 
-Presentatie 2019
+## Unix
 
-![](afbeeldingen/39-different-perspectives.png)
-
----
-## Geschiedenis
-
-- Unix
+- 1969 Ken Thompson
+- 1973 Dennis Ritchie
+- 1984 Unix Non-Free
 
 Note:
 1969 door Ken Thompson, Dennis Ritchie, Douglas Mcllroy en Joe Ossanna van AT&T Bell
 1973 herschreven door Dennis Ritchie in C
-1984 Beel verkoopt Unix alss niet vrij product## Geschiedenis
+1984 Bell verkoopt Unix als niet vrij product## Geschiedenis
 
 +++
-## Geschiedenis
+# Geschiedenis
 
-- Unix
-- GNU
+# GNU-Project
+
+- 1984 Richard M.Stallman
+- vrij op Unix gelijkend
+- FSF
+
 
 Note:
 1984 Richard M. Stallman
@@ -27,21 +28,22 @@ Free Software Foundation
 
 
 +++
-## Geschiedenis
+# Geschiedenis
 
-- Unix
-- GNU
-- Linux
+## Linux
+
+- 1991 Linus Torvalds
+- 1994 Linux Kernel v1.0
 
 Note:
 1991 Linus Torvalds (ontevreden met minix)
 Linux = enkel de kernel
 1994 Linuxkernel versie 1.0
 99% supercomputers draaien op Linux
-+1.000.000 server van Goole draaien op Linux
++1.000.000 server van Google draaien op Linux
 
 ---
-## Basisonderdelen
+# Basisonderdelen
 
 - bibliotheken
 - compilers
@@ -57,7 +59,7 @@ Note:
 kernel is maar een deel van het besturingssysteem
 
 ---
-## Distributies
+# Distributies
 
 - Debian
   - Ubuntu
@@ -78,8 +80,8 @@ Note:
 Er zijn veel Linux distros, maar ze zijn alle afgeleid van de 4 hoofdstromingen
 
 ---
-## Software
-### Desktop
+# Software
+## Desktop
 - LibreOffice
 - Scribus
 - Firefox
@@ -91,36 +93,36 @@ Note:
 er zeer veel software beschikbaar, teveel om op te noemen
 
 +++
-## Software
-### Serversoftware
+# Software
+## Serversoftware
 
   - databases
   - odoo
 
 +++
-## Software
-### DevOps Tools
+# Software
+## DevOps Tools
 
   - Git
   - Docker
 
 +++
-## Software
-### Programmeertalen
+# Software
+## Programmeertalen
 
   - Python
   - Java
 
 +++
-## Software
-### Netwerk Tools
+# Software
+## Netwerk Tools
 
   - OpenVPN
   - OpenWRT
 
 +++
-## Software
-### Beveiliging
+# Software
+## Beveiliging
 
   - SELinux
   - Let's Encrypt
