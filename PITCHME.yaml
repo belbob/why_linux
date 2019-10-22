@@ -19,5 +19,5 @@ highlight        : ir-black
 # Logo Setting
 # https://gitpitch.com/docs/settings/logo
 #
-logo : afb/why_linux_logo.jpg
+logo : afb/black_open_source_logo.jpg
 logo-position : top-left
