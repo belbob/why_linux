@@ -86,7 +86,6 @@ Er zijn veel Linux distros, maar ze zijn alle afgeleid van de 4 hoofdstromingen
 - Thunderbird
 - VLC
 - GIMP
--
 
 Note:
 er zeer veel software beschikbaar, teveel om op te noemen
@@ -100,7 +99,7 @@ er zeer veel software beschikbaar, teveel om op te noemen
 
 +++
 ## Software
-###- DevOps Tools
+### DevOps Tools
 
   - Git
   - Docker
