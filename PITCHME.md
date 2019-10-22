@@ -91,23 +91,38 @@ Er zijn veel Linux distros, maar ze zijn alle afgeleid van de 4 hoofdstromingen
 Note:
 er zeer veel software beschikbaar, teveel om op te noemen
 
----
++++
 ## Software
-### Veel meer dan enkel Desktop software
+### Serversoftware
 
-- Serversoftware
   - databases
   - odoo
-- DevOps Tools
+
++++
+## Software
+###- DevOps Tools
+
   - Git
   - Docker
-- Programmeertalen
+
++++
+## Software
+### Programmeertalen
+
   - Python
   - Java
-- Netwerk Tools
+
++++
+## Software
+### Netwerk Tools
+
   - OpenVPN
   - OpenWRT
-- Beveiliging
+
++++
+## Software
+### Beveiliging
+
   - SELinux
   - Let's Encrypt
 
