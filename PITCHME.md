@@ -15,11 +15,13 @@
 ---
 ## Basisonderdelen Besturingssysteem
 
+@ul
 - kernel @note[hart van het OS, kernel=Linux]
 - bibliotheken @note[is een verzameling code gedeeld object, met veelal als extensie .so (shared object), MS heeft gelijkaardig de .dll (dynamic linked library)]
 - compilers @note[is een computerprogramma dat code vertaald naar een werkend programma, meestal van een hogere programmmeertaal naar assembler of machinecode]
 - hulpprogramma's note@[POSIX(Portable Operating System Interface),vb. shell, command line, bestandssysteem,...]
 - grafische gebruikersomgeving @note[GUI (Grapical User Interface), meest gebruikte in Open Source zijn: Qt (KDE) en GTK (GNOME)]
+@ulend
 
 ---
 ## Linux Distributies
