@@ -79,9 +79,10 @@ kernel is maar een deel van het besturingssysteem
 - Redhat @note[CentOS, Fedora,..]
 - Slackware @note[SuSe, Porteus,..]
 - From scratch @note[Arch, Android,..]
+- [Linux Distribution Timeline](https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)
 @ulend
 
-[Linux Distribution Timeline](https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)
+
 
 Note:
 Er zijn veel Linux distros, maar ze zijn alle afgeleid van de 4 hoofdstromingen
