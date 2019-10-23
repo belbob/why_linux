@@ -6,6 +6,13 @@
 
 ## Geschiedenis
 
+- Unix
+- GNU
+- Linux
+
++++
+## Geschiedenis
+
 ### Unix
 
 - 1969 Ken Thompson
@@ -68,26 +75,61 @@ kernel is maar een deel van het besturingssysteem
 ## Distributies
 
 - Debian
-  - Ubuntu
-  - Mint
 - Redhat
-  - CentOS
-  - Fedora
 - Slackware
-  -SuSe
-  - Porteus
-- From scratch
-  - Arch
-  - Android
+- Fron scratch
 
 https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg
 
 Note:
 Er zijn veel Linux distros, maar ze zijn alle afgeleid van de 4 hoofdstromingen
 
++++
+## Distributies
+
+### Debian
+
+  - Ubuntu
+  - Mint
+
++++
+## Distributies
+
+### Redhat
+
+  - CentOS
+  - Fedora
+
++++
+## Distributies
+
+### Slackware
+
+  - SuSe
+  - Porteus
+
++++
+## Distributies
+
+### From scratch
+
+  - Arch
+  - Android
+
 ---
 ## Software
+
+- Desktop
+- Server
+- DevOps Tools
+- Programmeertalen
+- Beveiliging
+
++++
+## Software
+
 ### Desktop
+
 - LibreOffice
 - Scribus
 - Firefox
@@ -100,7 +142,8 @@ er zeer veel software beschikbaar, teveel om op te noemen
 
 +++
 ## Software
-### Serversoftware
+
+### Server
 
   - databases
   - odoo
