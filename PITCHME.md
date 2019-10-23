@@ -77,9 +77,9 @@ kernel is maar een deel van het besturingssysteem
 - Debian
 - Redhat
 - Slackware
-- Fron scratch
+- From scratch
 
-https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg
+[Linux_Distribution_Timeline](https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)
 
 Note:
 Er zijn veel Linux distros, maar ze zijn alle afgeleid van de 4 hoofdstromingen
