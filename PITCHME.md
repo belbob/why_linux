@@ -6,54 +6,13 @@
 
 ## Geschiedenis
 
-- Unix
-- GNU
-- Linux
-
-+++
-## Geschiedenis
-
-### Unix
-
-- 1969 Ken Thompson
-- 1973 Dennis Ritchie
-- 1984 Unix Non-Free
-
-Note:
-1969 door Ken Thompson, Dennis Ritchie, Douglas Mcllroy en Joe Ossanna van AT&T Bell
-1973 herschreven door Dennis Ritchie in C
-1984 Bell verkoopt Unix als niet vrij product## Geschiedenis
-
-+++
-## Geschiedenis
-
-### GNU-Project
-
-- 1984 Richard M.Stallman
-- vrij op Unix gelijkend
-- FSF
-
-
-Note:
-1984 Richard M. Stallman
-GNU-project, een vrij op Unix gelijkend besturingssysteem
-Free Software Foundation
-
-
-+++
-## Geschiedenis
-
-### Linux
-
-- 1991 Linus Torvalds
-- 1994 Linux Kernel v1.0
-
-Note:
-1991 Linus Torvalds (ontevreden met minix)
-Linux = enkel de kernel
-1994 Linuxkernel versie 1.0
-99% supercomputers draaien op Linux
-+1.000.000 server van Google draaien op Linux
+@ul
+- Unix @note[1969 door Ken Thompson, Dennis Ritchie, Douglas Mcllroy en Joe Ossanna van AT&T Bell, 1973 herschreven door Dennis Ritchie in C,
+1984 Bell verkoopt Unix als niet vrij product]
+- GNU @note[1984 Richard M. Stallman, GNU-project, een vrij op Unix gelijkend besturingssysteem, Free Software Foundation]
+- Linux @note[1991 Linus Torvalds (ontevreden met minix), Linux = enkel de kernel, 1994 Linuxkernel versie 1.0, 10% van de supercomputers en meer dan
++1.000.000 servers van Google draaien op Linux]
+@ulend
 
 ---
 ## Basisonderdelen
@@ -75,17 +34,15 @@ kernel is maar een deel van het besturingssysteem
 ## Distributies
 
 @ul
-- Debian @note[Ubuntu, Mint,..]
-- Redhat @note[CentOS, Fedora,..]
-- Slackware @note[SuSe, Porteus,..]
-- From scratch @note[Arch, Android,..]
+- 1991 From scratch @note[Arch, Android,..]
+- 1992 Debian @note[Ubuntu, Mint,..]
+- 1992 Slackware @note[SuSe, Porteus,..]
+- 1993 Redhat @note[CentOS, Fedora,..]
 - [Linux Distribution Timeline](https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)
 @ulend
 
-
-
 Note:
-Er zijn veel Linux distros, maar ze zijn alle afgeleid van de 4 hoofdstromingen
+Er zijn zeer veel Linux distros, maar ze zijn allemaal afgeleid van de deze distro's, zie link
 
 ---
 ## Software
