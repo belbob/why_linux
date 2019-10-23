@@ -7,11 +7,9 @@
 ## Geschiedenis
 
 @ul
-- Unix @note[1969 door Ken Thompson, Dennis Ritchie, Douglas Mcllroy en Joe Ossanna van AT&T Bell, 1973 herschreven door Dennis Ritchie in C,
-1984 Bell verkoopt Unix als niet vrij product]
+- Unix @note[1969 door Ken Thompson, Dennis Ritchie, Douglas Mcllroy en Joe Ossanna van AT&T Bell, 1973 herschreven door Dennis Ritchie in C, 1984 Bell verkoopt Unix als niet vrij product]
 - GNU @note[1984 Richard M. Stallman, GNU-project, een vrij op Unix gelijkend besturingssysteem, Free Software Foundation]
-- Linux @note[1991 Linus Torvalds (ontevreden met minix), Linux = enkel de kernel, 1994 Linuxkernel versie 1.0, 10% van de supercomputers en meer dan
-+1.000.000 servers van Google draaien op Linux]
+- Linux @note[1991 Linus Torvalds (ontevreden met minix), Linux = enkel de kernel, 1994 Linuxkernel versie 1.0, 10% van de supercomputers en meer dan 1.000.000 servers van Google draaien op Linux]
 @ulend
 
 ---
