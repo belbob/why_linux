@@ -9,27 +9,20 @@
 @ul
 - Unix @note[1969 door Ken Thompson, Dennis Ritchie, Douglas Mcllroy en Joe Ossanna van AT&T Bell, 1973 herschreven door Dennis Ritchie in C, 1984 Bell verkoopt Unix als niet vrij product]
 - GNU @note[1984 Richard M. Stallman, GNU-project, een vrij op Unix gelijkend besturingssysteem, Free Software Foundation]
-- Linux @note[1991 Linus Torvalds (ontevreden met minix), Linux = enkel de kernel, 1994 Linuxkernel versie 1.0, 10% van de supercomputers en meer dan 1.000.000 servers van Google draaien op Linux]
+- Linux @note[1991 Linus Torvalds (ontevreden met minix), Linux = enkel de kernel, 1994 Linuxkernel versie 1.0, 100% van de supercomputers en meer dan 1.000.000 servers van Google draaien op Linux]
 @ulend
 
 ---
-## Basisonderdelen
+## Basisonderdelen Besturingssysteem
 
-- bibliotheken
-- compilers
-- hulpprogramma's
-- grafische gebruikersomgeving
-  - GNOME
-  - KDE
-  - LXDE
-  - I3
-  - ...
-
-Note:
-kernel is maar een deel van het besturingssysteem
+- kernel @note[hart van het OS, kernel=Linux]
+- bibliotheken @note[is een verzameling code gedeeld object, met veelal als extensie .so (shared object), MS heeft gelijkaardig de .dll (dynamic linked library)]
+- compilers @note[is een computerprogramma dat code vertaald naar een werkend programma, meestal van een hogere programmmeertaal naar assembler of machinecode]
+- hulpprogramma's note@[POSIX(Portable Operating System Interface),vb. shell, command line, bestandssysteem,...]
+- grafische gebruikersomgeving @note[GUI (Grapical User Interface), meest gebruikte in Open Source zijn: Qt (KDE) en GTK (GNOME)]
 
 ---
-## Distributies
+## Linux Distributies
 
 @ul
 - 1991 From scratch @note[Arch, Android,..]
