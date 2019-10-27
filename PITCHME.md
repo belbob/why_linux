@@ -53,14 +53,14 @@ op onderstaande slides kan je doorklikken naar de websites
 +++
 ### Desktop Software
 
-- [LibreOffice](https://www.libreoffice.org/)
-- [Scribus](https://www.scribus.net/)
-- [Firefox](https://www.mozilla.org/en-US/firefox/new/)
-- [Thunderbird](https://www.thunderbird.net/en-US/)
-- [VLC](https://www.videolan.org/)
-- [GIMP](https://www.gimp.org/)
-- [Ardour](https://ardour.org/)
-- [Bender](https://www.blender.org/)
+- LibreOffice![LibreOffice](https://www.libreoffice.org/)
+- Scribus![Scribus](https://www.scribus.net/)
+- Firefox![Firefox](https://www.mozilla.org/en-US/firefox/new/)
+- Thunderbird![Thunderbird](https://www.thunderbird.net/en-US/)
+- VLC![VLC](https://www.videolan.org/)
+- GIMP![GIMP](https://www.gimp.org/)
+- Ardour![Ardour](https://ardour.org/)
+- Blender![Blender](https://www.blender.org/)
 
 +++
 ### Server Software
