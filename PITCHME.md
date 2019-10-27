@@ -163,7 +163,7 @@ Note:
 ---
 ## Vragen?
 
-![Q&A](afb/q&a02.png)
+![Q&A](afb/q&a02.resized.png)
 
 ---
 ## Demo Time
