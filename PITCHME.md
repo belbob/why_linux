@@ -6,7 +6,7 @@
 ## wie gebruikt Linux?
 
 @ul
-@note[Wie in de zaal maakt gebruik van Linux?]
+- @note[Wie in de zaal maakt gebruik van Linux?]
 @ulend
 
 @ul
