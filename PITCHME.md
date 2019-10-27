@@ -3,7 +3,11 @@
 ## Stephan Vercammen
 
 ---
-## wie gebruikt Linux? @note[Wie in de zaal maakt gebruik van Linux?]
+## wie gebruikt Linux?
+
+@ul
+@note[Wie in de zaal maakt gebruik van Linux?]
+@ulend
 
 @ul
 - NASA @note[Pleiades supercomputers, International Space Station, NASA Astrobee robots,..]
