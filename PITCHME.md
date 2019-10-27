@@ -37,6 +37,20 @@
 Note:
 Er zijn zeer veel Linux distros, maar ze zijn allemaal afgeleid van de deze distro's, zie link
 
++++
+
+### enkele Distro's
+
+- [Ubuntu](https://ubuntu.com/)
+- [ElementaryOS](https://elementary.io/)
+- [linux Mint](https://linuxmint.com/)
+- [Fedora](https://getfedora.org/en/)
+- [CentOS](https://www.centos.org/)
+- [Manjaro](https://manjaro.org/)
+- [MX Linux](https://mxlinux.org/)
+- [openSUSE](https://www.opensuse.org/)
+
+
 ---
 ## Software
 
@@ -45,7 +59,7 @@ Er zijn zeer veel Linux distros, maar ze zijn allemaal afgeleid van de deze dist
 - Server @note[Databases, Storage,CCTV, ERP, CRM, CMS,..]
 - DevOps Tools
 - Programmeertalen
-- Beveiliging
+- Security - privacy
 @ulend
 
 Note:
@@ -77,14 +91,17 @@ op onderstaande slides kan je doorklikken naar de websites
 +++
 ### DevOps Tools
 
+- [Version Control](https://git-scm.com/)
 - [Automatisatie](https://www.ansible.com/overview/it-automation)
 - [Containers](https://www.docker.com/)
-- [Monitoring](https://icinga.com/)
+- [Monitoring](https://grafana.com/)
 - [Virtualisatie](https://opennebula.org/)
 - [Logs](https://www.syslog-ng.com/)
-- [Analyse](https://grafana.com/)
 - [Cloud services](https://www.hashicorp.com/)
 - [Backups](https://www.bareos.org/en/)
+
+Note:
+Devops is geen jobtitel, het is de verzamelnaam van hoe we mensen in de computerwereld laten samenwerken, en de logische opvolger van Itil en Agile.
 
 +++
 ### Programmeertalen
@@ -104,14 +121,24 @@ Note:
 +++
 ### Netwerk Tools
 
-- [OpenVPN](https://openvpn.net/)
-- [OpenWRT](https://openwrt.org/)
 - [Open vSwitch](http://www.openvswitch.org/)
+- [OpenVPN](https://openvpn.net/)
+- [VyOS](https://vyos.io/)
+- [pfSense](https://www.pfsense.org/)
+- [IPFire](https://www.ipfire.org/)
+- [OpenWRT](https://openwrt.org/)
+- [HAProxy](https://www.haproxy.org/)
 - [Traefik](https://traefik.io/)
 
 
 +++
-### Beveiliging
+### Security - privacy
 
-  - SELinux
-  - Let's Encrypt
+  - [Let's Encrypt] (https://letsencrypt.org/)
+  - [OpenDNS](https://www.opendns.com/)
+  - [DuckDuckGo](https://duckduckgo.com/)
+  - [OpenPGP](https://www.openpgp.org/)
+  - [Tor](https://2019.www.torproject.org/index.html.en)
+  - [Brave](https://brave.com/)
+  - [Tails](https://tails.boum.org/)
+  - [WireShark](https://www.wireshark.org/)
