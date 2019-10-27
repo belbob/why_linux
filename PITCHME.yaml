@@ -19,7 +19,7 @@ highlight        : ir-black
 # Logo Setting
 # https://gitpitch.com/docs/settings/logo
 #
-logo : afb/black_open_source_logo.jpg
+logo : afb/oss_logo.jpg
 logo-position : top-left
 
 title: "Open Source & Linux"
