@@ -6,13 +6,13 @@
 ## wie gebruikt Linux?
 
 @ul
-- NASA,CERN,..  @note[Pleiades supercomputers, International Space Station, NASA Astrobee robots,..]
+- NASA, CERN,..  @note[Pleiades supercomputers, International Space Station, NASA Astrobee robots,..]
 - TV @note[LG, Panasonic, Samsung, Phillips,.., elke dag 800.000 nieuwe tv's met Linux..]
 - Tablets, Smartwatches, Chromebooks @note[Android, ChromeOS,...]
 - Auto's @note[Automotive-Grade Linux, GENVINI Alliance, Toyota, Mazda, Mercedes, VW,....]
 - Sociale media @note[Instagram, Facebook, Youtube, Twitter,...]
 - Overheden @note[Frankrijk, Pentagon, Federal Aviation Administration, New York Stcok Exchange,...]
-- Gppgle,Apple,Microsoft,Amazon,IBM,.. @note[De grote vijf, iCloud en Azure draaien op Linux, de meeste MS servers in de cloud hebben een Linux Kernel, Google en Android,.., IBM en Redhat]
+- Google, Apple, Microsoft, Amazon, IBM,.. @note[De grote vijf, iCloud en Azure draaien op Linux, de meeste MS servers in de cloud hebben een Linux Kernel, Google en Android,.., IBM en Redhat]
 - Alle supercomputers @note[top500 supercomputers, draaien allemaal op Linux (07/19)]
 @ulend
 
