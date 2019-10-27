@@ -134,7 +134,7 @@ Note:
 +++
 ### Security - privacy
 
-  - [Let's Encrypt] (https://letsencrypt.org/)
+  - [Let's Encrypt](https://letsencrypt.org/)
   - [OpenDNS](https://www.opendns.com/)
   - [DuckDuckGo](https://duckduckgo.com/)
   - [OpenPGP](https://www.openpgp.org/)
