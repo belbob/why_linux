@@ -160,10 +160,12 @@ Note:
   - [Tails](https://tails.boum.org/)
   - [WireShark](https://www.wireshark.org/)
 
-  ---
-  ## Vragen?
+---
+## Vragen?
 
-  ---
-  ## Demo Time
+![Q&A](afb/q&a02.png)
 
-  ---
+---
+## Demo Time
+
+![Demo](afb/live_demo.jpg)
