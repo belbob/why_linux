@@ -168,4 +168,4 @@ Note:
 ---
 ## Demo Time
 
-![Demo](afb/live_demo.jpg)
+![Demo](afb/live_demo2.jpg)
