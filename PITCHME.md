@@ -159,3 +159,11 @@ Note:
   - [Brave](https://brave.com/)
   - [Tails](https://tails.boum.org/)
   - [WireShark](https://www.wireshark.org/)
+
+  ---
+  ## Vragen
+
+  ---
+  ## Demo Time
+
+  ---
