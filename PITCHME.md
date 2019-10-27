@@ -40,62 +40,78 @@ Er zijn zeer veel Linux distros, maar ze zijn allemaal afgeleid van de deze dist
 ---
 ## Software
 
-- Desktop
-- Server
+@ul
+- Desktop @note[Libreoffice, Scribus, Firefox, Thunderbird,...]
+- Server @note[Databases, Storage,CCTV, ERP, CRM, CMS,..]
 - DevOps Tools
 - Programmeertalen
 - Beveiliging
-
-+++
-## Software
-
-### Desktop
-
-- LibreOffice
-- Scribus
-- Firefox
-- Thunderbird
-- VLC
-- GIMP
+@ulend
 
 Note:
-er zeer veel software beschikbaar, teveel om op te noemen
+op onderstaande slides kan je doorklikken naar de websites
++++
+### Desktop Software
+
+- [LibreOffice](https://www.libreoffice.org/)
+- [Scribus](https://www.scribus.net/)
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+- [Thunderbird](https://www.thunderbird.net/en-US/)
+- [VLC](https://www.videolan.org/)
+- [GIMP](https://www.gimp.org/)
+- [Ardour](https://ardour.org/)
+- [Bender](https://www.blender.org/)
 
 +++
-## Software
+### Server Software
 
-### Server
-
-  - databases
-  - odoo
+- [Databases](https://www.postgresql.org/)
+- [Storage](https://min.io/)
+- [CCTV](https://shinobi.video/)
+- [ERP & CRM](https://www.odoo.com/)
+- [Cloud](https://nextcloud.com/)
+- [Webbuilding](https://gohugo.io/)
+- [CMS](https://wordpress.org/)
+- [Communication](https://mattermost.com/)
 
 +++
-## Software
 ### DevOps Tools
 
-  - Git
-  - Docker
+- [Automatisatie](https://www.ansible.com/overview/it-automation)
+- [Containers](https://www.docker.com/)
+- [Monitoring](https://icinga.com/)
+- [Virtualisatie](https://opennebula.org/)
+- [Logs](https://www.syslog-ng.com/)
+- [Analyse](https://grafana.com/)
+- [Cloud services](https://www.hashicorp.com/)
+- [Backups](https://www.bareos.org/en/)
 
 +++
-## Software
 ### Programmeertalen
 
-  - Python
-  - Java
+- [Python](https://www.python.org/)
+  - [Django](https://www.djangoproject.com/)
+- [php](https://www.php.net/)
+  - [Laravel](https://laravel.com/)
+- [Ruby](https://www.ruby-lang.org/en/)
+  - [Rails](https://rubyonrails.org/)
+- [golang](https://golang.org/)
+  - [Buffalo](https://gobuffalo.io/en/)
+
+Note:
+4 voorbeelden van Open Source talen met een bijpassend framework
 
 +++
-## Software
 ### Netwerk Tools
 
-  - OpenVPN
-  - OpenWRT
+- [OpenVPN](https://openvpn.net/)
+- [OpenWRT](https://openwrt.org/)
+- [Open vSwitch](http://www.openvswitch.org/)
+- [Traefik](https://traefik.io/)
+
 
 +++
-## Software
 ### Beveiliging
 
   - SELinux
   - Let's Encrypt
-
-Note:
-er is veel meer niet desktop software beschikbaar , Linux is nr 1 op servergebied
